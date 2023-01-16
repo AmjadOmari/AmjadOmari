@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmjadOmari
-- 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning web back-end and front-end react
+- 👀 I’m interested in Mobile development and DevOps
+- 🌱 I’m currently learning web back-end, front-end react and DevOps
 - 💞️ I’m looking to collaborate on large project
 - 📫 How to reach me "E-mail: aomari@asaltech.com, tel: +970 59 873 7578"
 
